@@ -1,0 +1,6 @@
+# your SMTP login (an app password) lives here
+config.json
+# runtime state and reports: contain drive serial numbers and your PC name
+last-state.json
+smart.log
+test-report.txt
